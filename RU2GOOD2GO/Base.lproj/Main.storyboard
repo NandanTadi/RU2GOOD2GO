@@ -22,12 +22,20 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test Push #1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Al6-41-L6g">
+                                <rect key="frame" x="158.5" y="587.5" width="97" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="lnn-Sd-CNU" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="0Lx-u9-f36"/>
+                            <constraint firstItem="Al6-41-L6g" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="150" id="1gG-Fh-SQh"/>
                             <constraint firstItem="lnn-Sd-CNU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="a9N-aa-ye4"/>
+                            <constraint firstItem="Al6-41-L6g" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="fKO-UW-kFF"/>
                         </constraints>
                     </view>
                 </viewController>
