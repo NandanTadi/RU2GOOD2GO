@@ -34,6 +34,7 @@
 		64DA034926967A7D008EDCBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64DA034726967A7D008EDCBD /* Main.storyboard */; };
 		64DA034B26967A80008EDCBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64DA034A26967A80008EDCBD /* Assets.xcassets */; };
 		64DA034E26967A80008EDCBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64DA034C26967A80008EDCBD /* LaunchScreen.storyboard */; };
+		F67535BF26AF475D0009B350 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F67535BE26AF475D0009B350 /* MapsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		64DA034A26967A80008EDCBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64DA034D26967A80008EDCBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		64DA034F26967A80008EDCBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F67535BE26AF475D0009B350 /* MapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				64DA034526967A7D008EDCBD /* ViewController.swift */,
 				645F2D7C2696812900C7E236 /* LoginViewController.swift */,
 				64DA034726967A7D008EDCBD /* Main.storyboard */,
+				F67535BE26AF475D0009B350 /* MapsViewController.swift */,
 				648CDEB126969AF80002B844 /* SignupViewController.swift */,
 				64DA034A26967A80008EDCBD /* Assets.xcassets */,
 				64DA034C26967A80008EDCBD /* LaunchScreen.storyboard */,
@@ -230,6 +233,7 @@
 				645F2D7D2696812900C7E236 /* LoginViewController.swift in Sources */,
 				64DA034626967A7D008EDCBD /* ViewController.swift in Sources */,
 				648CDEB226969AF80002B844 /* SignupViewController.swift in Sources */,
+				F67535BF26AF475D0009B350 /* MapsViewController.swift in Sources */,
 				64DA034226967A7D008EDCBD /* AppDelegate.swift in Sources */,
 				64DA034426967A7D008EDCBD /* SceneDelegate.swift in Sources */,
 			);
