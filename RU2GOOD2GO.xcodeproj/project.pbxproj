@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		645F2D7D2696812900C7E236 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645F2D7C2696812900C7E236 /* LoginViewController.swift */; };
+		64750CD526C1964700AF795A /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64750CD426C1964700AF795A /* MainViewController.swift */; };
 		648CDE95269689EE0002B844 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 648CDE82269689EE0002B844 /* Montserrat-LightItalic.ttf */; };
 		648CDE96269689EE0002B844 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 648CDE83269689EE0002B844 /* Montserrat-Medium.ttf */; };
 		648CDE97269689EE0002B844 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 648CDE84269689EE0002B844 /* Montserrat-BoldItalic.ttf */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		645F2D7C2696812900C7E236 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		64750CD426C1964700AF795A /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		648CDE82269689EE0002B844 /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
 		648CDE83269689EE0002B844 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 		648CDE84269689EE0002B844 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				64DA034526967A7D008EDCBD /* ViewController.swift */,
 				645F2D7C2696812900C7E236 /* LoginViewController.swift */,
 				64DA034726967A7D008EDCBD /* Main.storyboard */,
+				64750CD426C1964700AF795A /* MainViewController.swift */,
 				F67535C226B389E70009B350 /* MapsTableViewController.swift */,
 				F67535BE26AF475D0009B350 /* MapsViewController.swift */,
 				648CDEB126969AF80002B844 /* SignupViewController.swift */,
@@ -240,6 +243,7 @@
 				F67535BF26AF475D0009B350 /* MapsViewController.swift in Sources */,
 				64DA034226967A7D008EDCBD /* AppDelegate.swift in Sources */,
 				64DA034426967A7D008EDCBD /* SceneDelegate.swift in Sources */,
+				64750CD526C1964700AF795A /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
